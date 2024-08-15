@@ -12,6 +12,3 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun011026)](https://github.com/anuraghazra/github-readme-stats)
