@@ -6,6 +6,9 @@
 
 ## ⚡ AWARD
 + 2024 숭실대학교 소프트웨어 공모전 금상
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=android_master)](https://solved.ac/android_master/)
+
 <!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
