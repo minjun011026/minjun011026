@@ -2,8 +2,8 @@
 
 
 ## 🔭 EXPERIENCE
-+ 2024.07.15 ~ 2024.08.09 네이버 부스트캠프 웹모바일 챌린지
-
++ [2024 유어슈 루키톤 : 숭실대학교 주변 술집 필터링 서비스 SSU:L](https://github.com/minjun011026/SSUL)
+  
 ## ⚡ AWARD
 + [2024 숭실대학교 소프트웨어 공모전 금상](https://github.com/minjun011026/NewPick)
 
