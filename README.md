@@ -9,6 +9,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=android_master)](https://solved.ac/android_master/)
 
+## Open Source Contirbutions
++ [DroidKaigi/conference-app-2025](https://github.com/DroidKaigi/conference-app-2025) - [Card Shadow Drawing](https://github.com/DroidKaigi/conference-app-2025/pull/401)
+
 <!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
