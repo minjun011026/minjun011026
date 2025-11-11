@@ -8,7 +8,7 @@
 + [2024 숭실대학교 소프트웨어 공모전 금상](https://github.com/minjun011026/NewPick)
 
 ## Open Source Contributions
-+ [Gradle-#35567](https://github.com/gradle/gradle/pull/35567#event-20759257141) - Fix generated libs.versions.toml link to correct TOML format page
++ [Gradle-#35567](https://github.com/gradle/gradle/pull/35567) - Fix generated libs.versions.toml link to correct TOML format page
 + [DroidKaigi/conference-app-2025-#401](https://github.com/DroidKaigi/conference-app-2025/pull/401) - Card Shadow Drawing
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=android_master)](https://solved.ac/android_master/)
